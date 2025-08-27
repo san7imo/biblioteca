@@ -102,18 +102,12 @@ biblioteca.prestarRecurso(1); // Cambia disponibilidad del libro
 ---
 
 ## Cómo ejecutar el proyecto
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/biblioteca-java.git
-   cd biblioteca-java
-   ```
-2. Abrir en **IntelliJ IDEA** o cualquier IDE de Java  
-3. Asegurarse de tener **JDK 17 configurado**  
-4. Ejecutar `Main.java`  
+1. Abrir en **IntelliJ IDEA** o cualquier IDE de Java  
+2. Asegurarse de tener **JDK 17 configurado**  
+3. Ejecutar `Main.java`  
 
 ---
 
 ## 📖 Autor
-- 👨‍💻 ****  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/san7imo)  
 - 💻 [Portafolio](https://san7imo.dev/)  
